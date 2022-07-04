@@ -1,0 +1,15 @@
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/bin/Debug/net6.0/Задача 13 через массив
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/bin/Debug/net6.0/Задача 13 через массив.deps.json
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/bin/Debug/net6.0/Задача 13 через массив.runtimeconfig.json
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/bin/Debug/net6.0/Задача 13 через массив.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/bin/Debug/net6.0/Задача 13 через массив.pdb
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/Задача 13 через массив.csproj.AssemblyReference.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/Задача 13 через массив.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/Задача 13 через массив.AssemblyInfoInputs.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/Задача 13 через массив.AssemblyInfo.cs
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/Задача 13 через массив.csproj.CoreCompileInputs.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/Задача 13 через массив.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/refint/Задача 13 через массив.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/Задача 13 через массив.pdb
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/Задача 13 через массив.genruntimeconfig.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 13 через массив/obj/Debug/net6.0/ref/Задача 13 через массив.dll
