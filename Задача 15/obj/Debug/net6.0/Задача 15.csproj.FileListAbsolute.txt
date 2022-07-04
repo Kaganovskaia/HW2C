@@ -1,0 +1,15 @@
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/Задача 15.csproj.AssemblyReference.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/Задача 15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/Задача 15.AssemblyInfoInputs.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/Задача 15.AssemblyInfo.cs
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/Задача 15.csproj.CoreCompileInputs.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/bin/Debug/net6.0/Задача 15
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/bin/Debug/net6.0/Задача 15.deps.json
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/bin/Debug/net6.0/Задача 15.runtimeconfig.json
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/bin/Debug/net6.0/Задача 15.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/bin/Debug/net6.0/Задача 15.pdb
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/Задача 15.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/refint/Задача 15.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/Задача 15.pdb
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/Задача 15.genruntimeconfig.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/ДЗ 2 урок/Задача 15/obj/Debug/net6.0/ref/Задача 15.dll
